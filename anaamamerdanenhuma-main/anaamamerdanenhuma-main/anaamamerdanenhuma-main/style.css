@@ -1,0 +1,13 @@
+header{
+    background-color: rgb(38, 22, 109);
+    color: rgb(222, 228, 241);
+    display: flex;
+    justify-content: space-around;
+    
+}
+.cabecalho-imagem{
+  width: 20%;
+  
+
+  
+}
